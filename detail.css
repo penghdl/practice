@@ -1,0 +1,42 @@
+/* 隐藏 "No file chosen" 文本 */
+/* input[type="file"] {
+    display: none;
+  } */
+  
+/* 美化文件选择按钮的样式，可根据需要进行调整 */
+.custom-file-input {
+    background-color: #4caf50; /* 设置背景颜色 */
+    color: #fff; /* 设置文本颜色 */
+    padding: 10px 15px; /* 设置内边距 */
+    border: none; /* 去掉边框 */
+    border-radius: 5px; /* 设置圆角 */
+    cursor: pointer; /* 添加手型光标 */
+}
+
+.sick-days-warning {
+    background-color: #cc693344;
+  }
+  
+  .sick-days-breach {
+    background-color: #cc333344;
+  }
+
+  .rag-red {
+    background-color: #CC222244;
+}
+.rag-green {
+    background-color: #33CC3344;
+}
+.rag-blue {
+    background-color: #2244CC44;
+}
+
+.rag-red-outer .rag-element {
+    background-color: #CC222244;
+}
+.rag-green-outer .rag-element {
+    background-color: #33CC3344;
+}
+.rag-blue-blue .rag-element {
+    background-color: #2244CC44;
+}
